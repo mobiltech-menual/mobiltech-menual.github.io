@@ -5,8 +5,6 @@ categories: [Manual]
 tags: [HDmap_Viewer]
 ---
 
-# HDmap_Viewer1.0
-
 HDmap viewer 개발과 공유 및 원활한 배포
 
 ## Menual
