@@ -1,0 +1,21 @@
+[
+  
+  {
+    "title": "HDmap_Viewer1.0",
+    "url": "/posts/HDmapViewer/",
+    "categories": "Manual",
+    "tags": "HDmap_Viewer",
+    "date": "2024-07-22 00:00:00 +0900",
+    
+
+
+
+
+
+    
+    "snippet": "HDmap viewer 개발과 공유 및 원활한 배포MenualHDmap_Viewer1.0_READEMEDescriptionHD-MAP 제작을 위해서 위치에 따른 카메라영상 판독을 목적으로 만들어 졌다. 궁극적으로는 QGIS와 같은 도화툴의 위치와 카메라영상을 Join하여 판독하는 것이다.VisualsInstallationHDmap_Viewer.zip의...",
+    "content": "HDmap viewer 개발과 공유 및 원활한 배포MenualHDmap_Viewer1.0_READEMEDescriptionHD-MAP 제작을 위해서 위치에 따른 카메라영상 판독을 목적으로 만들어 졌다. 궁극적으로는 QGIS와 같은 도화툴의 위치와 카메라영상을 Join하여 판독하는 것이다.VisualsInstallationHDmap_Viewer.zip의 압축을 풀어서 HDmapViewer.exe를 실행Usage      MMS_Viewer.exe를 실행한다.        [1. Mount Event1.txt] 버튼을 클릭한다.        event1.txt파일을 로드한다.        [CameraPlayer]버튼을 클릭한다.        나타난 Image Video Viewer윈도우에서 Load Folders를 클릭한다.        camera01폴더를 지정한다. 6.1. ‘Enter target gpstime’ 텍스트상자에서 검색할 gpstime을 입력한다. 6.2. ‘Enter timeset’텍스트 상자에 18(gpstime가산수치)을 입력한다.    6.3. 01~05버튼을 누르면 카메라전환이된다.    6.4. 재생구간을 조정하는 프로그레스바와 play/Pause버튼 배속버튼 «10s,10s»버튼으로 영상을 조작한다.    6.5. 필요시, HistEQ 체크박스로 영상의 이퀄라이저를 평준화하여 판독에 용이하도록한다.        [4. Map Open]버튼을 클릭한다.        [3. Draw a driving route]를 클릭한다.        Vworld Map윈도우에서 Vworld에서 발급받은 API Key를 입력한다.    9.1. 이 상태에서 동영상을 재생하면 지도에 위치가 표시된다.    9.2. 이 맵에서 경로 주변을 클릭하면 영상플레이어가 해당 지점을 재생한다.    9.3. [Open RoadView] 버튼을 누르면 해당지점의 kakao로드뷰가 실행된다.  SupportGoogleChat : shinmyeongho@mobiltech.ioRoadmap  js파일로 login관리  QGIS MapCanvas와 image_video_viewer 신호처리  Ubuntu용 패키징  GUI Qt5 대체하여 리팩토링  배포용 Installer.exe 작성  사용 Menual 정리"
+  }
+  
+]
+
