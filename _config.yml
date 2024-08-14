@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pds.saramin.co.kr/company/logo/201902/27/pnk3rx_yv5n-0_logo.PNG
+avatar: https://github.com/user-attachments/assets/19e93fe4-f345-48f4-82f7-19981111f3ec
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

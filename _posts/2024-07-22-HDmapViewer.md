@@ -18,7 +18,7 @@ HDmap viewer 개발과 공유 및 원활한 배포
 HD-MAP 제작을 위해서 위치에 따른 카메라영상 판독을 목적으로 만들어 졌다. 궁극적으로는 QGIS와 같은 도화툴의 위치와 카메라영상을 Join하여 판독하는 것이다.
 
 ## Visuals
-![MMS_Viewer](/uploads/23fe75604f28c8b230346a6cb34330c8/MMS_Viewer.png)
+![MMS_Viewer](https://github.com/user-attachments/assets/ade34f9d-f9d6-4ca7-9cb0-e4a5e852b93b)
 
 ## Installation
 HDmap_Viewer.zip의 압축을 풀어서 HDmapViewer.exe를 실행
