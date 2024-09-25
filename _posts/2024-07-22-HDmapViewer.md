@@ -46,7 +46,7 @@ HDmap_Viewer.zip의 압축을 풀어서 HDmapViewer.exe를 실행
 
 8. [3. Draw a driving route]를 클릭한다.
 
-9. Vworld Map윈도우에서 Vworld에서 발급받은 API Key를 입력한다.
+9. Vworld Map윈도우에서 Vworld에서 발급받은 API Key를 입력한다. [Vworld API발급방법](https://docs.google.com/document/d/1PDpejOfeFIY2ktEUiXRAA-JwTfd82PQ-ECly_Mtsn78/edit#heading=h.gjdgxs)
 
     9.1. 이 상태에서 동영상을 재생하면 지도에 위치가 표시된다.
 
