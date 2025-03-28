@@ -1,6 +1,6 @@
 ---
 title: "HDMapViewer(QGISPlugin)_1.0.0"
-date: 2025-03-31 00:00:00 +0900
+date: 2025-03-28 00:00:00 +0900
 categories: [Tool]
 tags: [HDmap_Viewer,QGIS,Plugin]
 ---
@@ -46,9 +46,9 @@ HDMapViewer(QGISPlugin)_1.0.0 (개발/공유/배포)
 
 ![Image](https://github.com/user-attachments/assets/802478ae-d5c7-4575-a4fd-85698c1bfded)
 
-# Menual
+## HDMapViewer(QGISPlugin)_1.0.0Menual.pdf(https://github.com/user-attachments/assets/아직작성중)
 
-### 1. 인터 페이스
+## 인터 페이스
 * QGIS Toolbar button
 
 ![Image](https://github.com/user-attachments/assets/37a803bf-bda3-4f35-8b9d-4c515a9cd858)
