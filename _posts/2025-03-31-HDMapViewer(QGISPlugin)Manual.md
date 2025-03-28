@@ -8,21 +8,26 @@ tags: [HDmap_Viewer,QGIS,Plugin]
 HDMapViewer(QGISPlugin)_1.0.0 매뉴얼 작성
 
 ## Description
+---
 '[HDmap_Viewer1.0](https://mobiltech-menual.github.io/posts/HDmapViewer/)'을 고도화하여 QGIS에서 사용할 수 있도록 Plugin으로 제작하여 'HDMapViewer(QGISPlugin)_1.0.0'를 배포.
 
 ### - 목적
+---
 * '[IN54004_[Replica City]HDmap Viewer](https://docs.google.com/presentation/d/1cXCXp2r6wglWB05iU4lxa1TjTjvtYQmPCafb36JI1w4/edit#slide=id.g32cb8f9b0dd_0_120)' 프로젝트 일환
  * HD-Map 제작시에 MMS취득 영상과 카카오 로드뷰를 확인
 * 차선의 색상, 표지판종류 등 정성적 데이터 취득
 * 취득한 데이터 검수
 
 ## Visuals
+---
 ![Image](https://github.com/user-attachments/assets/a30ac2c8-7a2c-4654-94c1-777695447a28)
 
 ## Installation
+---
 HDmap_Viewer.zip의 압축을 풀어서 HDmapViewer.exe를 실행
 
 ## Usage
+---
 1. MMS_Viewer.exe를 실행한다.
 
 2. [1. Mount Event1.txt] 버튼을 클릭한다.
@@ -56,9 +61,11 @@ HDmap_Viewer.zip의 압축을 풀어서 HDmapViewer.exe를 실행
     9.3. [Open RoadView] 버튼을 누르면 해당지점의 kakao로드뷰가 실행된다.
 
 ## Support
+---
 GoogleChat : shinmyeongho@mobiltech.io
 
 ## Roadmap
+---
 1. js파일로 login관리
 2. QGIS MapCanvas와 image_video_viewer 신호처리
 3. Ubuntu용 패키징
