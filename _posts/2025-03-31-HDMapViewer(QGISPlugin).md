@@ -52,7 +52,7 @@ HDMapViewer(QGISPlugin)_1.0.0 (개발/공유/배포)
 
 ## 상세메뉴얼
 ***
-### [HDMapViewer(QGISPlugin)_1.0.0Menual.pdf](https://github.com/user-attachments/assets/아직작성중)
+### [HDMapViewer(QGISPlugin)_1.0.0[Manual]](https://mobiltech-menual.github.io/posts/HDMapViewer(QGISPlugin)Manual/)
 
 ## 인터 페이스
 ***
