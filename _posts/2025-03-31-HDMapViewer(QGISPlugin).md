@@ -33,22 +33,22 @@ HDMapViewer(QGISPlugin)_1.0.0 (개발/공유/배포)
    
 ### 3. 메뉴바 - 플러그인 - 플러그인 관리 및 설치
 
-![Image](https://github.com/user-attachments/assets/2c52a731-1226-4ab1-a7d5-a00a30c0fdf9)
+![Image](https://github.com/mobiltech-menual/mobiltech-menual.github.io/blob/main/assets/img/post/2025-03-31-HDMapViewer(QGISPlugin)/3.png?raw=true)
 
 ### 4. ZIP 파일에서 설치 - 다운받은 HDMapViewer_윈도우_.zip 경로지정 - 플러그인설치
 
-![Image](https://github.com/user-attachments/assets/92c58e16-a897-4fd3-8f3a-53a5bdf54d29)
+![Image](https://github.com/mobiltech-menual/mobiltech-menual.github.io/blob/main/assets/img/post/2025-03-31-HDMapViewer(QGISPlugin)/4.png?raw=true)
 
 ### 5. 보안경고 - 예
 
-![Image](https://github.com/user-attachments/assets/d207c6ba-33c2-460b-af18-2a6c4648e15d)  
+![Image](https://github.com/mobiltech-menual/mobiltech-menual.github.io/blob/main/assets/img/post/2025-03-31-HDMapViewer(QGISPlugin)/5.png?raw=true)  
 
 ### 6. 설치 성공
 
-![Image](https://github.com/user-attachments/assets/0908184b-7efa-4664-8b52-14a87b9ac453)
+![Image](https://github.com/mobiltech-menual/mobiltech-menual.github.io/blob/main/assets/img/post/2025-03-31-HDMapViewer(QGISPlugin)/6.png?raw=true)
 - 설치 버전 확인 가능
 
-![Image](https://github.com/user-attachments/assets/802478ae-d5c7-4575-a4fd-85698c1bfded)
+![Image](https://github.com/mobiltech-menual/mobiltech-menual.github.io/blob/main/assets/img/post/2025-03-31-HDMapViewer(QGISPlugin)/6-1.png?raw=true)
 
 ## 상세메뉴얼
 ***
@@ -58,19 +58,19 @@ HDMapViewer(QGISPlugin)_1.0.0 (개발/공유/배포)
 ***
 * QGIS Toolbar button
 
-![Image](https://github.com/user-attachments/assets/37a803bf-bda3-4f35-8b9d-4c515a9cd858)
+![Image](https://github.com/mobiltech-menual/mobiltech-menual.github.io/blob/main/assets/img/post/2025-03-31-HDMapViewer(QGISPlugin)/inteface1.png?raw=true)
 
 * mainPlugin 위젯
 
-![Image](https://github.com/user-attachments/assets/fee2b86e-3b3b-491d-8c46-30a4e6477179)
+![Image](https://github.com/mobiltech-menual/mobiltech-menual.github.io/blob/main/assets/img/post/2025-03-31-HDMapViewer(QGISPlugin)/inteface2.png?raw=true)
 
 * VideoController 위젯
 
-![Image](https://github.com/user-attachments/assets/3d4965e1-03eb-4261-a4d8-649a4dbc05ea)
+![Image](https://github.com/mobiltech-menual/mobiltech-menual.github.io/blob/main/assets/img/post/2025-03-31-HDMapViewer(QGISPlugin)/inteface3.png?raw=true)
 
 * API-key 등록 위젯
 
-![Image](https://github.com/user-attachments/assets/baede91a-bfd1-49c9-9923-6f4358a8f8cf)
+![Image](https://github.com/mobiltech-menual/mobiltech-menual.github.io/blob/main/assets/img/post/2025-03-31-HDMapViewer(QGISPlugin)/inteface4.png?raw=true)
 
 ## Support
 ***
