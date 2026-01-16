@@ -1,0 +1,8 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles zmin="0" password="" name="VworldBase" url="http://api.vworld.kr/req/wmts/1.0.0/여기에발급받은API키입력/Base/{z}/{y}/{x}.png" authcfg="" referer="" zmax="18" username=""/>
+    <xyztiles zmin="0" password="" name="VworldGray" url="http://api.vworld.kr/req/wmts/1.0.0/여기에발급받은API키입력/gray/{z}/{y}/{x}.png" authcfg="" referer="" zmax="18" username=""/>
+    <xyztiles zmin="0" password="" name="VworldHybrid" url="http://api.vworld.kr/req/wmts/1.0.0/여기에발급받은API키입력/Hybrid/{z}/{y}/{x}.png" authcfg="" referer="" zmax="18" username=""/>
+    <xyztiles zmin="0" password="" name="VworldMidnight" url="http://api.vworld.kr/req/wmts/1.0.0/여기에발급받은API키입력/midnight/{z}/{y}/{x}.png" authcfg="" referer="" zmax="18" username=""/>
+    <xyztiles zmin="0" password="" name="VworldSatellite" url="http://api.vworld.kr/req/wmts/1.0.0/여기에발급받은API키입력/Satellite/{z}/{y}/{x}.jpeg" authcfg="" referer="" zmax="18" username=""/>
+</qgsXYZTilesConnections>
