@@ -6,3 +6,4 @@
     <xyztiles zmin="0" password="" name="VworldMidnight" url="http://api.vworld.kr/req/wmts/1.0.0/여기에발급받은API키입력/midnight/{z}/{y}/{x}.png" authcfg="" referer="" zmax="18" username=""/>
     <xyztiles zmin="0" password="" name="VworldSatellite" url="http://api.vworld.kr/req/wmts/1.0.0/여기에발급받은API키입력/Satellite/{z}/{y}/{x}.jpeg" authcfg="" referer="" zmax="18" username=""/>
 </qgsXYZTilesConnections>
+
