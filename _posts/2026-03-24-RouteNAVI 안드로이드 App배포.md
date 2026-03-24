@@ -1,0 +1,24 @@
+---
+title: "Route NAVI"
+date: 2026-03-24 11:14:00 +0900
+categories: [Manual, API]
+tags: [kakao,API,map]
+---
+
+kakao API 발급절차 기술
+
+## Description
+MMS취득을 위해 작성한 복잡한 경로에 대한 내비게이션 및 주행 기록을 제공하여, 운전자의 편의성과 안전을 도모함.
+
+
+<iframe src="https://drive.google.com/file/d/1zQ23R6TC6yoAnier2zjqyrQa6xFSsza5/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+
+## Manual
+1. android폰에 apk파일을 다운로드 받는다.
+2. 설치를하며 만약 안되면 안내되는 자동보안을 잠시 꺼준다.
+3. 설치 완료하여 시연 영상 대로 작동해본다.
+4. 현재 주행기록은 쓸만하지만 gps기록의 보정 알고리즘을 추가할 필요가 있으며, 보다 좋은 스트라바어플이나 다른 어플과 병행하여 사용함을 추천한다.
+
+
+## Support
+GoogleChat : shinmyeongho@mobiltech.io
