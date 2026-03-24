@@ -7,12 +7,13 @@ tags: [App,API,map, navi]
 
 <a href="https://mobiltech-menual.github.io/assets/img/post/build/app/routenavi0.1.apk" download>DownloadLiNK</a>
 
-kakao API 발급절차 기술
-
 ## Description
 MMS취득을 위해 작성한 복잡한 경로에 대한 내비게이션 및 주행 기록을 제공하여, 운전자의 편의성과 안전을 도모함.
 
+* IOS
+https://routekit.p-e.kr/
 
+* Android
 <iframe src="https://drive.google.com/file/d/1zQ23R6TC6yoAnier2zjqyrQa6xFSsza5/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Manual
