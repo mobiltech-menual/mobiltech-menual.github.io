@@ -1,8 +1,8 @@
 ---
 title: "Route NAVI"
 date: 2026-03-24 11:14:00 +0900
-categories: [Manual, API]
-tags: [kakao,API,map]
+categories: [Manual, App]
+tags: [App,API,map, navi]
 ---
 
 kakao API 발급절차 기술
